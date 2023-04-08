@@ -1,7 +1,7 @@
-/* 
-Theme Name: Fictional University
-Author: Jonel
-Version: 1.0
+/*
+ Theme Name: Fictional University
+ Author: Brad
+ Version: 1.0
 */
 
 /* 3rd party packages */
@@ -15,7 +15,6 @@ Version: 1.0
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
-  scroll-behavior: smooth;
 }
 /* Sections
    ========================================================================== */
